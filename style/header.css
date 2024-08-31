@@ -24,7 +24,8 @@ header .container{
     align-items: center;
 }
 #info{
-   list-style: none;    
+   list-style: none; 
+   width: 280px;   
 
    display: flex;
    flex-direction: column;
